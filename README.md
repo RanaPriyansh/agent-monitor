@@ -1,8 +1,8 @@
-# Thielon Agent Monitor
+# Agent Monitor
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/thielon-apps/thielon-agent-monitor)
-[![License](https://img.shields.io/github/license/thielon-apps/thielon-agent-monitor)](https://github.com/thielon-apps/thielon-agent-monitor/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/thielon-apps/thielon-agent-monitor)](https://github.com/thielon-apps/thielon-agent-monitor/commits/main)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/RanaPriyansh/agent-monitor)
+[![License](https://img.shields.io/github/license/RanaPriyansh/agent-monitor)](https://github.com/RanaPriyansh/agent-monitor/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/RanaPriyansh/agent-monitor)](https://github.com/RanaPriyansh/agent-monitor/commits/main)
 
 Observability for AI agents: metrics, logs, traces, cost tracking, performance dashboards.
 
@@ -18,7 +18,7 @@ Observability for AI agents: metrics, logs, traces, cost tracking, performance d
 ## Quick Start
 
 ```python
-from thielon_monitor import Monitor
+from agent_monitor import Monitor
 
 monitor = Monitor(agent_name="hermes")
 monitor.track_token_usage(100, 0.0015)  # tokens, cost
@@ -34,7 +34,7 @@ streamlit run dashboard.py
 ## Install
 
 ```bash
-pip install thielon-agent-monitor
+pip install agent-monitor
 ```
 
 ## Why
