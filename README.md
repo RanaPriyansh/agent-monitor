@@ -1,5 +1,9 @@
 # Thielon Agent Monitor
 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github)](https://github.com/thielon-apps/thielon-agent-monitor)
+[![License](https://img.shields.io/github/license/thielon-apps/thielon-agent-monitor)](https://github.com/thielon-apps/thielon-agent-monitor/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/thielon-apps/thielon-agent-monitor)](https://github.com/thielon-apps/thielon-agent-monitor/commits/main)
+
 Observability for AI agents: metrics, logs, traces, cost tracking, performance dashboards.
 
 ## Features
